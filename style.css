@@ -1,0 +1,39 @@
+#header {
+	height: 150px;
+	background-color:rgba(0, 56, 255, 0.6);
+	width: 100%;
+	position:relative;
+	}
+
+.sid{
+	color:red;
+}
+#sidebar{
+  float:left;
+  background-color:rgba(88, 55, 55, 0.6);
+  position: left;
+  width: 200px;
+  height: 400px;
+  display:inline-block;
+}
+#page{
+  
+  position: absolute;
+  display:inline-block;
+  width: 70%;
+  margin: 10px 30px;
+  
+}
+
+ul li {
+	display:inline;
+	text-align: center;
+	margin: 20px;
+}
+
+#menu {
+	display: inline;
+}
+
+#niceseoreadon{width:100%;display:block;max-height:1px;overflow:hidden;transition:all 1s linear 0s}
+#niceseoreadonbutton{transition:all 0.1s linear 0s;opacity:1}
